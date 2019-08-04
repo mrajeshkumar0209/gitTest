@@ -1,13 +1,2 @@
 This file added in remote
 
-Remote file modified in local branch...
-
-This branch is going to be merged in master........
-
-Final testing before removing this branch
-
-<<<<<<< HEAD
-Another branch created with name latestbranch
-=======
-This is another branch with name updatedbranch
->>>>>>> 950eb6d8016b732e38b6e822f45112aa31c55087
